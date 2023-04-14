@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.geektext.GeekTextApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.409 s - in com.geektext.GeekTextApplicationTests
